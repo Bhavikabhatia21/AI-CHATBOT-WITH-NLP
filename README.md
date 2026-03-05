@@ -142,3 +142,9 @@ The AI Career Mentor Chatbot is a beginner-friendly project that demonstrates ho
 Although the chatbot currently supports a limited number of skills, it can easily be extended by adding more career data and improving the NLP model to support more advanced queries.
 
 This project helped in understanding the basics of Flask web development, NLP preprocessing, and chatbot design. It also provides a strong foundation for building more advanced AI-based career recommendation systems in the future.
+
+## OUTPUT
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ad57fd4a-6e4e-4cf9-abd0-8abd035294cb" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b712eb59-7dcc-444d-a914-5651efb6193f" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c598c2a0-a3f6-436d-b291-5fa7f11560d7" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/4a6af6d7-9cc7-4f20-b7c5-0995418a99a3" />
