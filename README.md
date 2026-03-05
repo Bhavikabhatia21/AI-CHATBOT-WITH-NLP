@@ -145,3 +145,6 @@ This project helped in understanding the basics of Flask web development, NLP pr
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a275d5e3-3a45-4773-b7ef-6de223cdc14d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/280005a9-9661-4c50-8253-e9134513cf8a" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/cc6d5a7e-c765-48ed-9ce3-ebf858554a42" />
