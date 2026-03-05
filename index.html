@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Career Mentor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="chat-container">
+   <div class="header">
+       AI Career Mentor
+   </div>
+
+   <div class="chat-box" id="chat-box"></div>
+
+   <div class="skills">
+       <button onclick="sendSkill('python')">Python</button>
+       <button onclick="sendSkill('java')">Java</button>
+       <button onclick="sendSkill('data')">Data</button>
+       <button onclick="sendSkill('ml')">ML</button>
+   </div>
+
+   <div class="input-area">
+       <input type="text" id="user-input" placeholder="Type your skills...">
+       <button onclick="sendMessage()">Send</button>
+   </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
